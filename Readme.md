@@ -28,7 +28,7 @@ pip install pandas schedule geopy
 ## Usage
 1. Run the script to start scraping and storing data:
 ```sh
-python script.py
+TruckSuvidha_data.py
 ```
 2. The extracted data will be saved as:
    - `trucksuvidha_data.csv`: Contains load details with timestamps.

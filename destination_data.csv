@@ -1,85 +1,39 @@
 City,Latitude,Longitude,Population
-Noida (UP),28.5706333,77.3272147,637272
-Nagpur (MH),21.1498134,79.0820556,3517000
-Hisar (HR),29.2396596,75.81745048,1743931
-Hyd (AP),15.165735,48.4215098,9847000
-Vapi (GJ),20.3735482,72.9084376,223000
-Surada (OR),19.80197745,84.38381926,21500
-Bihar (BR),25.16729025,85.55023976,130725310
-Dhar (MP),22.5786572,75.22586367,2185793
-Bangalore (KA),12.98815675,77.62260003796,Not available
+Bangalore (KA),12.98815675,77.62260004,Not available
 Noida (UP),28.5706333,77.3272147,Not available
 Nagpur (MH),21.1498134,79.0820556,Not available
-Hisar (HR),29.239659600000003,75.81745047978342,Not available
+Hisar (HR),29.2396596,75.81745048,Not available
 Hyd (AP),15.165735,48.4215098,Not available
 Vapi (GJ),20.3735482,72.9084376,Not available
-Surada (OR),19.801977450000003,84.38381926490905,Not available
-Bihar (BR),25.16729025,85.55023975864606,Not available
-Dhar (MP),22.578657200000002,75.22586367245644,Not available
+Surada (OR),19.80197745,84.38381926,Not available
+Bihar (BR),25.16729025,85.55023976,Not available
+Dhar (MP),22.5786572,75.22586367,Not available
 Nagamangala (KA),12.8196077,76.7542189,Not available
 Chennai (TN),13.0836939,80.270186,Not available
-Kanad (MP),23.669983100000003,76.1677209199744,Not available
-Bhogaon (UP),27.19658655,79.21588364023673,Not available
-Koppal (KA),15.57482375,76.3118493692591,Not available
+Kanad (MP),23.6699831,76.16772092,Not available
+Bhogaon (UP),27.19658655,79.21588364,Not available
+Koppal (KA),15.57482375,76.31184937,Not available
 Nashik (MH),20.0112475,73.7902364,Not available
-Ghaziabad (UP),28.7749966,77.4586967071196,Not available
-Tezpur (AS),26.61695705,92.76500717365028,Not available
+Ghaziabad (UP),28.7749966,77.45869671,Not available
+Tezpur (AS),26.61695705,92.76500717,Not available
 Agra (UP),27.1752554,78.0098161,Not available
 Silchar (AS),24.830302,92.7875689,Not available
 S Bala (JK),34.0866792,74.7957357,Not available
 Guwahati (AS),26.1805978,91.753943,Not available
 Pune (MH),18.5213738,73.8545071,Not available
-C N Halli (KA),13.40377595,76.62371687307397,Not available
-Bangalore (KA),12.98815675,77.62260003796,Not available
-Noida (UP),28.5706333,77.3272147,Not available
-Nagpur (MH),21.1498134,79.0820556,Not available
-Hisar (HR),29.239659600000003,75.81745047978342,Not available
-Hyd (AP),15.165735,48.4215098,Not available
-Vapi (GJ),20.3735482,72.9084376,Not available
-Surada (OR),19.801977450000003,84.38381926490905,Not available
-Bihar (BR),25.16729025,85.55023975864606,Not available
-Dhar (MP),22.578657200000002,75.22586367245644,Not available
-Nagamangala (KA),12.8196077,76.7542189,Not available
-Chennai (TN),13.0836939,80.270186,Not available
-Kanad (MP),23.669983100000003,76.1677209199744,Not available
-Bhogaon (UP),27.19658655,79.21588364023673,Not available
-Koppal (KA),15.57482375,76.3118493692591,Not available
-Nashik (MH),20.0112475,73.7902364,Not available
-Ghaziabad (UP),28.7749966,77.4586967071196,Not available
-Tezpur (AS),26.61695705,92.76500717365028,Not available
-Agra (UP),27.1752554,78.0098161,Not available
-Silchar (AS),24.830302,92.7875689,Not available
-S Bala (JK),34.0866792,74.7957357,Not available
-Guwahati (AS),26.1805978,91.753943,Not available
-Pune (MH),18.5213738,73.8545071,Not available
-C N Halli (KA),13.40377595,76.62371687307397,Not available
-Bangalore (KA),12.98815675,77.62260003796,Not available
-Noida (UP),28.5706333,77.3272147,Not available
-Nagpur (MH),21.1498134,79.0820556,Not available
-Hisar (HR),29.239659600000003,75.81745047978342,Not available
-Hyd (AP),15.165735,48.4215098,Not available
-Vapi (GJ),20.3735482,72.9084376,Not available
-Surada (OR),19.801977450000003,84.38381926490905,Not available
-Bihar (BR),25.16729025,85.55023975864606,Not available
-Dhar (MP),22.578657200000002,75.22586367245644,Not available
-Nagamangala (KA),12.8196077,76.7542189,Not available
-Chennai (TN),13.0836939,80.270186,Not available
-Kanad (MP),23.669983100000003,76.1677209199744,Not available
-Bhogaon (UP),27.19658655,79.21588364023673,Not available
-Koppal (KA),15.57482375,76.3118493692591,Not available
-Nashik (MH),20.0112475,73.7902364,Not available
-Ghaziabad (UP),28.7749966,77.4586967071196,Not available
-Tezpur (AS),26.61695705,92.76500717365028,Not available
-Agra (UP),27.1752554,78.0098161,Not available
-Silchar (AS),24.830302,92.7875689,Not available
-S Bala (JK),34.0866792,74.7957357,Not available
-Guwahati (AS),26.1805978,91.753943,Not available
-Pune (MH),18.5213738,73.8545071,Not available
-C N Halli (KA),13.40377595,76.62371687307397,Not available
-Salem (TN),11.64696155,78.21069575456464,Not available
+C N Halli (KA),13.40377595,76.62371687,Not available
+Salem (TN),11.64696155,78.21069575,Not available
 Cuttack (OR),20.4686,85.8792,Not available
-Jajpur (OR),20.87467875,86.12153933111324,Not available
+Jajpur (OR),20.87467875,86.12153933,Not available
 Ahmedabad (GJ),23.0215374,72.5800568,Not available
 Gulbarga (KA),17.3310003,76.8334228,Not available
 Madakasira (AP),13.9405457,77.272588,Not available
-Bikram (BR),25.451230250000002,84.84801113348087,Not available
+Bikram (BR),25.45123025,84.84801113,Not available
+Banglore (KA),13.0240558,77.6240521,Not available
+Bhopal (MP),23.2584857,77.401989,Not available
+Rajkot (GJ),22.3053263,70.8028377,Not available
+Bagafa (TR),23.3086803,91.5652728,Not available
+Jaipur (RJ),26.9154576,75.8189817,Not available
+Deverapalli (AP),17.032,81.5563,Not available
+Raajsamand (RJ),25.0583,25.0583,Not available
+Blaspur (HP),31.3407,76.6875,Not available
